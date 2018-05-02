@@ -1,0 +1,39 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'Spaceship-(Base-floor-1-Stars)_mesh_0001.obj'
+
+# Vertices (Count = 16)
+v -124800 -128000 0
+v -128000 -128000 0
+v -128000 -124800 0
+v -124800 -124800 0
+v -214400 -128000 0
+v -217600 -128000 0
+v -217600 -124800 0
+v -214400 -124800 0
+v -124800 -220800 0
+v -128000 -220800 0
+v -128000 -217600 0
+v -124800 -217600 0
+v -214400 -220800 0
+v -217600 -220800 0
+v -217600 -217600 0
+v -214400 -217600 0
+
+# Texture cooridinates (Count = 4)
+vt 1 0
+vt 0 0
+vt 0 1
+vt 1 1
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g Spaceship-(Base-floor-1-Stars)_mesh_0001
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/2/1 6/1/1 7/4/1 8/3/1
+f 9/4/1 10/3/1 11/2/1 12/1/1
+f 13/3/1 14/4/1 15/1/1 16/2/1
+
